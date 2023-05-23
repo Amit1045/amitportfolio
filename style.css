@@ -1,0 +1,19 @@
+h1 {
+    color: rebeccapurple;
+}
+h1{
+    font-style: italic;
+}
+.demo{
+    color: rgb(47, 37, 182);
+}
+
+#Quali{
+    color:rgb(21, 126, 26);
+}
+*{
+ background-color:rgb(219, 109, 109);
+ }
+ img{
+     align-items:center ;
+ }
